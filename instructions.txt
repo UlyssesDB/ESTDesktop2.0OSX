@@ -1,0 +1,11 @@
+https://www.davidbaumgold.com/tutorials/wine-mac/#part-2:-install-wine-using-homebrew
+
+https://www.google.com/search?q=osx+remotely+access&oq=osx+remotely+access&aqs=chrome..69i57.8753j0j1&sourceid=chrome&ie=UTF-8
+
+https://www.canadapost.ca/web/en/kb/details.page?article=technical_tips_for_g&cattype=kb&cat=sending&subcat=generalinformation
+
+
+AppleScript:
+tell application "Terminal"
+  do script "wine /Users/ulysses/.wine/drive_c/'Program Files (x86)'/'EST Desktop 2.0'/'EST Desktop 2.0.exe'"
+end tell
